@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ClientSideValidationRegisterNewUser/static/css/main.6d3b02ce.css",
+    "main.js": "/ClientSideValidationRegisterNewUser/static/js/main.20200087.js",
+    "static/media/background (1).jpg": "/ClientSideValidationRegisterNewUser/static/media/background (1).a007a23ec1ca02786e11.jpg",
+    "index.html": "/ClientSideValidationRegisterNewUser/index.html",
+    "main.6d3b02ce.css.map": "/ClientSideValidationRegisterNewUser/static/css/main.6d3b02ce.css.map",
+    "main.20200087.js.map": "/ClientSideValidationRegisterNewUser/static/js/main.20200087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3b02ce.css",
+    "static/js/main.20200087.js"
+  ]
+}
