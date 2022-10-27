@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ClientSideValidationRegisterNewUser/static/css/main.6d3b02ce.css",
-    "main.js": "/ClientSideValidationRegisterNewUser/static/js/main.20200087.js",
-    "static/media/background (1).jpg": "/ClientSideValidationRegisterNewUser/static/media/background (1).a007a23ec1ca02786e11.jpg",
-    "index.html": "/ClientSideValidationRegisterNewUser/index.html",
-    "main.6d3b02ce.css.map": "/ClientSideValidationRegisterNewUser/static/css/main.6d3b02ce.css.map",
-    "main.20200087.js.map": "/ClientSideValidationRegisterNewUser/static/js/main.20200087.js.map"
+    "main.css": "/ClientSideValidationNewUserRegister/static/css/main.9b9d7069.css",
+    "main.js": "/ClientSideValidationNewUserRegister/static/js/main.20200087.js",
+    "static/media/background (1).jpg": "/ClientSideValidationNewUserRegister/static/media/background (1).a007a23ec1ca02786e11.jpg",
+    "index.html": "/ClientSideValidationNewUserRegister/index.html",
+    "main.9b9d7069.css.map": "/ClientSideValidationNewUserRegister/static/css/main.9b9d7069.css.map",
+    "main.20200087.js.map": "/ClientSideValidationNewUserRegister/static/js/main.20200087.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d3b02ce.css",
+    "static/css/main.9b9d7069.css",
     "static/js/main.20200087.js"
   ]
 }
